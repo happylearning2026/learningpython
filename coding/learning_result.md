@@ -18,9 +18,9 @@
 
 #### pandas
 
-1. 列表推导式； if条件赋值 （使用挺频繁的语法糖）
-[列表推导式](../practice/python/pandas/python_list_learn.py)
-[if条件赋值](./practice/python/pandas/python_list_learn.py)
+1. 列表推导式； if条件赋值 （使用挺频繁的语法糖）  
+  [列表推导式](./practice/python/pandas/python_list_learn.py)  
+  [if条件赋值](./practice/python/pandas/python_list_learn.py)
 
 #### 
 
