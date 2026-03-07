@@ -17,3 +17,4 @@ SELECT * FROM products;
 
 
 select 1;
+select * from stocks;
